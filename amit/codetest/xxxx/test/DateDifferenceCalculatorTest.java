@@ -1,4 +1,4 @@
-package amit.codetest.quantas.test;
+package amit.codetest.xxxx.test;
 
 import static org.junit.Assert.*;
 
