@@ -6,7 +6,7 @@ Date Difference Calculator
 1. Assumptions and constraints
 ----------------------------------------------
 Following assumptions have been made for the program:
-a. Input year must be in yyyy format and 1901 <= year >= 2999
+a. Input year must be in yyyy format and 1901 <= year <= 2999
 
 b. start date is always smaller than (comes before) end date. This is just for convenience,
 	and, can be changed to handle cases where start date is bigger than end date by simply 
